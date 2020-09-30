@@ -7,3 +7,6 @@ def print_joke(funny=True):
     print('Do you even want a joke at all?')
     
 #These jokes are terrible must improve
+
+def print_better_joke():
+  print('Only joking we have no better jokes')
