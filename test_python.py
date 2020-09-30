@@ -5,3 +5,5 @@ def print_joke(funny=True):
     print('Why do we even ask about chickens?')
   else:
     print('Do you even want a joke at all?')
+    
+#These jokes are terrible must improve
